@@ -185,3 +185,9 @@ theme:
   code:
     dark: true
     colorize: true
+    
+    
+microsoft:
+  enabled: true
+  clientId: a7b4fe25-f253-44e0-9431-2bd6692aaa4e
+  clientSecret: jflYCY5334|ntacWNMS4)^^
