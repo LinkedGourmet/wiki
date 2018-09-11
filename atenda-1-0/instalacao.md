@@ -15,7 +15,7 @@
 #### Instalação preservando o banco e configurações
 #### Backup da versão anterior
 
-## Configuração de impressoras
+## **Configuração de impressoras**
 ### Configurado as impressoras no Atenda 1.0
 ### Configurando impressoras USB em Rede
 
