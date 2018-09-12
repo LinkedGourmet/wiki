@@ -67,8 +67,16 @@ A instalação possui 4 etapas distintas que devem ser feitas exatamente nesta o
 1. Baixar o SQL Server a partir deste endereço - https://www.microsoft.com/pt-br/download/details.aspx?id=42299
 2. Após baixar, realizar a instalação seguindo o passo a abaixo
 3. Acessar o SQL CONFIGURATION CENTER 2014 e habilitar as PIPES e Portas TCP/IP - Alterar conforme imagem para PORTAS 1433
+![Sql Config Manager](/uploads/sql-config-manager.jpg "Sql Config Manager")
+![Sql Config Manager 3](/uploads/sql-config-manager-3.jpg "Sql Config Manager 3")
+![Sql Config Manager 4](/uploads/sql-config-manager-4.jpg "Sql Config Manager 4")
+
 4. Restaurar o Banco de Dados Linked Gourmet
+
 5. Inserir o Nosso Numero do Cliente - Informação disponivel no retaguarda
+![Sql 1](/uploads/sql-1.jpg "Sql 1")
+![Sql 2](/uploads/sql-2.jpg "Sql 2")
+
 6. Reiniciar o Serviço SQL
 
 ##### Instalação  Linked Gourmet
