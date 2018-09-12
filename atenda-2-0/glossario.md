@@ -1,5 +1,5 @@
-<!-- TITLE: Glossario -->
-<!-- SUBTITLE: A quick summary of Glossario -->
+<!-- TITLE: Glossário -->
+<!-- SUBTITLE: A quick summary of Glossário -->
 
 # Glossário
 ## Termos Técnicos
