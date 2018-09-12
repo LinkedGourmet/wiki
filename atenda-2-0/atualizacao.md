@@ -40,4 +40,10 @@ Antes da instalação é necessário seguir alguns passos antes de iniciar o pro
 8. Janela de tempo de 2 ou 3 horas antes do cliente iniciar o atendimento
 
 
+## Desabiltando os serviços do Atenda 1.0
+## Alterando as configurações no Backoffice
+## Gerando Pacote no retaguarda
+## Instalação e configuração
+> Ver Instalação completa do Atenda 2.0
+
 
