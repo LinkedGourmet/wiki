@@ -80,4 +80,19 @@
 #### Pedidos divergentes entre Atenda e iFood
 #### Pedidos do iFood não lançam no Atenda
 
+### Pendência 
+#### Pendência não apresenta valores consistentes
+#### Erro ao selecionar cliente
+
+## Relatórios FC
+### Relatório de fechamento de caixa
+#### Erro de coluna ao emitir fechamento
+
+### Relatórios do sistema
+#### Erro ao emirir relatórios
+
+## Abertutra e fechamento de Caixa
+#### Diversos caixas abertos na mesma senha
+#### Erro no fechamento de caixa
+
 
