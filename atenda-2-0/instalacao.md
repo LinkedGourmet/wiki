@@ -1,5 +1,5 @@
-<!-- TITLE: Instalacao -->
-<!-- SUBTITLE: A quick summary of Instalacao -->
+<!-- TITLE: Instalacão -->
+<!-- SUBTITLE: Instalacão -->
 
 # Instalação Atenda 2.0
 ## Pré Requisitos
@@ -85,3 +85,12 @@ Verifique se o arquivo com a Assintura gerada está no pacote de instalação.
 ### Configurando no Atenda 2.0
 
 ## Configuração dos relatórios de impressão
+
+## **Configurando Balança**
+
+## **Configurando Microterminal**
+
+## **Configurando Pocket**
+
+## **Configurando outros terminais** *(Clients)*
+
