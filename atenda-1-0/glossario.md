@@ -28,8 +28,19 @@
 
 > Serviço Hosted - Assim que escreve?
 
+**Bat de limpeza**
 
+**Cupom Fiscal**
 
+**Certificado Digital**
+
+**NFC-e**
+
+**Arquivo XML**
+
+**TEF** 
+
+**Mamba**
 
 
 ### Módulos 
@@ -39,6 +50,10 @@
 **Atenda 1.0** - 
 
 **Atenda 2.0** - 
+
+**SYNC** - 
+
+
 
 ### Hardaware
 
