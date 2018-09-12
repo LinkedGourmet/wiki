@@ -66,7 +66,7 @@ A instalação possui 4 etapas distintas que devem ser feitas exatamente nesta o
 ##### Instalação do SQL Server 2014 Express
 1. Baixar o SQL Server a partir deste endereço - https://www.microsoft.com/pt-br/download/details.aspx?id=42299
 2. Após baixar, realizar a instalação seguindo o passo a abaixo
-######Instalação SQL
+###### Instalação SQL
 ![Slide 1](/uploads/slide-1.jpg "Slide 1")
 
 ![Slide 2](/uploads/slide-2.jpg "Slide 2")
