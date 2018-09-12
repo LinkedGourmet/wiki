@@ -66,9 +66,13 @@ A instalação possui 4 etapas distintas que devem ser feitas exatamente nesta o
 ##### Instalação do SQL Server 2014 Express
 1. Baixar o SQL Server a partir deste endereço - https://www.microsoft.com/pt-br/download/details.aspx?id=42299
 2. Após baixar, realizar a instalação seguindo o passo a abaixo
-3. Acessar o SQL CONFIGURATION CENTER 2014 e habilitar as PIPES e Portas TCP/IP - Alterar conforme imagem para PORTAS 1433
+3. Acessar o SQL CONFIGURATION CENTER 2014 e habilitar as PIPES e Portas TCP/IP 
 ![Sql Config Manager](/uploads/sql-config-manager.jpg "Sql Config Manager")
+
+Habilitar as PIPES e Portas TCP/IP 
 ![Sql Config Manager 3](/uploads/sql-config-manager-3.jpg "Sql Config Manager 3")
+
+Alterar portas para 1433
 ![Sql Config Manager 4](/uploads/sql-config-manager-4.jpg "Sql Config Manager 4")
 
 4. Restaurar o Banco de Dados Linked Gourmet
