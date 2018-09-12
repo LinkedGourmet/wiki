@@ -56,7 +56,7 @@ Antes da instalação é necessário seguir algum passos antes de iniciar o proc
 Passo a passo para realizar uma instalação completa e estável do Atenda 1.0
 
 #### Nova instalação 
-A instalação possui 3 etapas distintas que devem ser feitas exatamente nesta ordem para uma melhor otimização do tempo e esforço.
+A instalação possui 4 etapas distintas que devem ser feitas exatamente nesta ordem para uma melhor otimização do tempo e esforço.
 
 1. instalação e configuração do SQL SERVER
 2. Instalação do Atenda 1.0
@@ -66,24 +66,56 @@ A instalação possui 3 etapas distintas que devem ser feitas exatamente nesta o
 ##### Instalação do SQL Server 2014 Express
 1. Baixar o SQL Server a partir deste endereço - https://www.microsoft.com/pt-br/download/details.aspx?id=42299
 2. Após baixar, realizar a instalação seguindo o passo a abaixo
-* 		
+3. Acessar o SQL CONFIGURATION CENTER 2014 e habilitar as PIPES e Portas TCP/IP - Alterar conforme imagem para PORTAS 1433
+4. Restaurar o Banco de Dados Linked Gourmet
+5. Inserir o Nosso Numero do Cliente - Informação disponivel no retaguarda
+6. Reiniciar o Serviço SQL
 
+##### Instalação  Linked Gourmet
+1. Executar o programa como administrador
+2. Avançar o Wizard de instalação até iniciar a instalação
+3. Após instalado, gerar uma string de conexão atraves do GERADOR DE SENHA - ver imagem
+4. Iniciar o programa
+5. Verificar se o cardápio instalado é o mesmo do cliente
 
-#### Instalação preservando o banco e configurações
-#### Backup da versão anterior
+##### Instalação dos Periférios
+1. Instalar no servidor as impressoras de produção e realizar um teste atraves do painel de controle
+2. Instalar o SAT ou EFC e testar atraves do programa proprietário do dispositivo
+
+##### Configuração Atenda 1.0
+1. Configurar impressoras
+2. Configurar Relatórios de impressão
+3. Configurar SAT ou ECF
+4. Realizar teste de pedidos e fechamento de contas
 
 ## **Configuração de impressoras**
+Guia de instalação de impressoras
+####**Bematech**
+###### 2100 TH
+###### 4200 TH Rede e USB
+####**Epson**
+####**Daruma**
+Seguir passo a passo abaixo
+http://www.desenvolvedoresdaruma.com.br/sddn/ebits/ddc_ebits_21.html
+####**Sweda**
+####**Elgin**
+
 ### Configurado as impressoras no Atenda 1.0
-### Configurando impressoras USB em Rede
+Acesse o Atenda 1.0 e vá em configurações e Impressoras
+![Impressora Fiscal Instalacao 2](/uploads/impressora-fiscal-instalacao-2.png "Impressora Fiscal Instalacao 2")
+
 
 ## **Configuração do SAT**
 ### Gerando assinatura
 ### Configurando o SAT no Atenda 1.0
 
-
 ## **Configuração dos relatórios de impressão**
 ## **Configurando Balanças**
+
 ## **Configurando Microterminal**
+
 ## **Configurando Pocket**
+
 ## **Configurando outros terminais** *(Clients)*
+
 
