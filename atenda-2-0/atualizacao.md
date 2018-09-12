@@ -7,13 +7,13 @@
 ### Hardwares Homologados
 Abaixo seguem os hardwares homologados para o ATENDA 1.0
 
-**SAT**
-**ECF ou Impressora Fiscal**
-**Impressora Termica**
-**Balança**
-**Microterminal**
-**TEF**
-**Aparelhos Celulares**
+#### **SAT**
+#### **ECF ou Impressora Fiscal**
+#### **Impressora Termica**
+#### **Balança**
+#### **Microterminal**
+#### **TEF**
+#### **Aparelhos Celulares**
 
  ### Requisitos mínimos
 Para executar o Atenda 2.0 com uma boa experiência de usabilidade, é necessário um computador central (Servidor) com as configurações abaixo
