@@ -1,5 +1,5 @@
 <!-- TITLE: Suporte Atenda 1.0 -->
-<!-- SUBTITLE: Mapa de incidentes - Suporte   Autor: Help Desk-->
+<!-- SUBTITLE: Mapa de incidentes para Help Desk-->
 
 
 
