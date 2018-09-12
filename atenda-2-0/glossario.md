@@ -1,5 +1,5 @@
 <!-- TITLE: Glossário -->
-<!-- SUBTITLE: A quick summary of Glossário -->
+<!-- SUBTITLE: Principais termos utilizados-->
 
 # Glossário
 ## Termos Técnicos
@@ -8,7 +8,40 @@
 
 **Rede** - É a base do cliente dentro da retaguarda. Cada cliente possui uma REDE e dentro desta rede podem ter 1 ou varias lojas. A identificação da rede é um número dado para cada cliente. EX: 325, 409, etc.  
 
-**Pacote de instalação** - É um arquivo executável gerado com todas as configurações, cadastros e informações do retaguarda que tem como objetivo disponibilizar esses dados logo na primeira utilização sem precisar baixar mais informações.  
+**Pacote de instalação** - É um arquivo executável gerado com todas as configurações, cadastros e informações do retaguarda que tem como objetivo disponibilizar esses dados logo na primeira utilização sem precisar baixar mais informações.
+
+**Acesso Remoto** - 
+
+**Login** - 
+
+**Caixa** - 
+
+**Spooler de impressão** -
+
+**Linked Schedule** -
+
+**Serviço do SQL** -
+
+**Serviço Pocket Linked** -
+
+**Serviço Sync** -
+
+> Serviço Hosted - Assim que escreve?
+
+**Bat de limpeza**
+
+**Cupom Fiscal**
+
+**Certificado Digital**
+
+**NFC-e**
+
+**Arquivo XML**
+
+**TEF** 
+
+**Mamba**
+
 
 ### Módulos 
 
@@ -17,6 +50,10 @@
 **Atenda 1.0** - 
 
 **Atenda 2.0** - 
+
+**SYNC** - 
+
+
 
 ### Hardaware
 
@@ -39,3 +76,12 @@
 **Impressora Térmica** -
 
 ## Programas utilizados
+
+**SQL Server **
+
+**Team Viewer**
+
+**Any Desk**
+
+Google Chrome
+
