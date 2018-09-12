@@ -98,7 +98,6 @@ Alterar portas para 1433
 1. Configurar impressoras
 2. Configurar Relatórios de impressão
 3. Configurar SAT ou ECF
-4. Realizar teste de pedidos e fechamento de contas
 
 ## **Configuração de impressoras**
 Guia de instalação de impressoras
@@ -120,7 +119,8 @@ Acesse o Atenda 1.0 e vá em configurações e Impressoras
 ## **Configuração do SAT**
 ### Gerando assinatura
 ### Configurando o SAT no Atenda 1.0
-
+Acesse configurações - Aba 
+![Sat](/uploads/sat.png "Sat")
 ## **Configuração dos relatórios de impressão**
 ## **Configurando Balanças**
 
