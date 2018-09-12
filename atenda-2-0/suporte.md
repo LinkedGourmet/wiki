@@ -3,8 +3,6 @@
 
 # Suporte ao Atenda 2.0
 ## Principais problemas
-### Erro de comunicação com as impressoras de produção
-
 ### Erro com SAT
 #### Não impressão de documentos
 #### SAT não comunicando com o sistema
