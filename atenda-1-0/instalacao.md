@@ -156,10 +156,8 @@ Insira as informações do cliente, código de atvação e assinatura gerada ant
 ## **Configuração dos relatórios de impressão**
 Acesse configurações - Aba Relatórios de Impressão e escolha qual  relatório deve sair em cada impressora. 
 ATENÇÃO - O sistema só vai mostrar as impressoras configuradas no ATENDA 1.0
-![Impressora Fiscal Instalacao 3](/uploads/impressora-fiscal-instalacao-3.png "Impressora Fiscal Instalacao 3")
+
 ## **Configurando Balanças**
-
-
 
 ## **Configurando Microterminal**
 
