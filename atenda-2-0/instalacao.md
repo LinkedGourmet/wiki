@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Instalacão -->
 
 # Instalação Atenda 2.0
-## Pré Requisitos
+## **Pré Requisitos**
 ### Hardwares Homologados
 ### SAT
 ### Impressora Fiscal
@@ -11,7 +11,7 @@
 
 ### Tempo de instalação
 
-## Geração de pacote
+## **Geração de pacote**
 ### Link de acesso
 
 ### Como gerar novamente o pacote
@@ -20,7 +20,7 @@
 
 ### Quais configurações escolher
 
-## Instalação do pacote
+## **Instalação do pacote**
 
 ### Cuidados antes da instalação
 
@@ -33,7 +33,7 @@
 
 #### Backup da versão anterior
 
-## Configuração de impressoras
+## **Configuração de impressoras**
 ### Configurado as impressoras no windows
 
 #### **Bematech**
@@ -51,7 +51,7 @@ http://www.desenvolvedoresdaruma.com.br/sddn/ebits/ddc_ebits_21.html
 
 ### Configurando impressoras USB em Rede
 
-## Configuração do SAT
+## **Configuração do SAT**
 ### Instalação de SAT no Windows
 #### **Bematech**
 Seguir passo a passo abaixo
@@ -84,7 +84,7 @@ Verifique se o arquivo com a Assintura gerada está no pacote de instalação.
 
 ### Configurando no Atenda 2.0
 
-## Configuração dos relatórios de impressão
+## **Configuração dos relatórios de impressão**
 
 ## **Configurando Balança**
 
