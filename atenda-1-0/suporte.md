@@ -22,14 +22,14 @@ Causa -
 
 Resolução - 
 
-#### Erro ao emitir cupom fiscal
+#### **Erro ao emitir cupom fiscal**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-#### Cancelamento de cupom fiscal
+#### **Cancelamento de cupom fiscal**
 Sintoma - 
 
 Causa - 
@@ -38,49 +38,49 @@ Resolução -
 
 
 ### Erro com ECF
-#### Não impressão de documentos
+#### **Não impressão de documentos**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-#### ECF não comunicando com o sistema
+#### **ECF não comunicando com o sistema**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-#### Erro ao emitir cupom fiscal
+#### **Erro ao emitir cupom fisca**l
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-##### CF Aberto
+##### **CF Aberto**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-##### Relógio Inconsistente
+##### **Relógio Inconsistente**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-##### Redução Z emitida
+##### **Redução Z emitida**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-#### Cancelamento de cupom fiscal
+#### **Cancelamento de cupom fiscal**
 Sintoma - 
 
 Causa - 
@@ -89,21 +89,21 @@ Resolução -
 
 
 ### Erro com NFC-e
-#### Não impressão de documentos
+#### **Não impressão de documentos**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-#### Erro ao emitir cupom fiscal
+#### **Erro ao emitir cupom fiscal**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-#### Cancelamento de cupom fiscal
+#### **Cancelamento de cupom fiscal**
 Sintoma - 
 
 Causa - 
@@ -112,35 +112,35 @@ Resolução -
 
 
 ### Erro no fechamento de conta
-##### Erro de pagamento
+##### **Erro de pagamento**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-##### Erro SEFAZ
+##### **Erro SEFAZ**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-##### Não impressão de cupom fiscal
+##### **Não impressão de cupom fiscal**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-##### Cupom emitindo com excesso de papel
+##### **Cupom emitindo com excesso de papel**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-##### Cupom emitindo com valor diferente do sistema
+##### **Cupom emitindo com valor diferente do sistema**
 Sintoma - 
 
 Causa - 
@@ -148,28 +148,28 @@ Causa -
 Resolução - 
 
 ### Erro de SYNC
-#### Caixas não disponíveis no Retaguarda
+#### **Caixas não disponíveis no Retaguarda**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-#### Funcionários cadastrados não disponíveis no FC
+#### **Funcionários cadastrados não disponíveis no FC**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-#### Produtos cadastrados não disponíveis no FC
+#### **Produtos cadastrados não disponíveis no FC**
 Sintoma - 
 
 Causa - 
 
 Resolução - 
 
-#### Departamento de impressão não disponível no FC
+#### **Departamento de impressão não disponível no FC**
 Sintoma - 
 
 Causa - 
