@@ -7,7 +7,7 @@
 ## Principais incidentes
 
 ### Erro com SAT
-#### Não impressão de documentos
+#### **Não impressão de documentos**
 Sintoma - 
 
 Causa - 
@@ -15,7 +15,7 @@ Causa -
 Resolução - 
 
 
-#### SAT não comunicando com o sistema
+#### **SAT não comunicando com o sistema**
 Sintoma - 
 
 Causa - 
