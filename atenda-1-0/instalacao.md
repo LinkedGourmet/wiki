@@ -82,15 +82,25 @@ Alterar portas para 1433
 
 5. Inserir o Nosso Número do Cliente - Informação disponível na retaguarda
 ![Slide 1](/uploads/slide-1.jpg "Slide 1")
+
 ![Slide 2](/uploads/slide-2.jpg "Slide 2")
+
 ![Slide 3](/uploads/slide-3.jpg "Slide 3")
+
 ![Slide 4](/uploads/slide-4.jpg "Slide 4")
+
 ![Slide 5](/uploads/slide-5.jpg "Slide 5")
+
 ![Slide 6](/uploads/slide-6.jpg "Slide 6")
+
 ![Slide 7](/uploads/slide-7.jpg "Slide 7")
+
 ![Slide 8](/uploads/slide-8.jpg "Slide 8")
+
 ![Slide 9](/uploads/slide-9.jpg "Slide 9")
+
 ![Slide 10](/uploads/slide-10.jpg "Slide 10")
+
 ![Slide 11](/uploads/slide-11.jpg "Slide 11")
 
 
