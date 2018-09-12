@@ -3,9 +3,20 @@
 
 # Suporte ao Atenda 1.0
 ## Principais problemas
-### Erro de comunicação com as impressoras
+### Erro de comunicação com as impressoras de produção
 
-### Erro de fechamento de conta
+### Erro com SAT
+
+### Erro com ECF
+#### Não impressão de documentos
+#### Não comunicando com o sistema
+#### Cupom fiscal Aberto
+#### Erro ao emitir cupom fiscal
+##### CF Aberto
+##### Relógio Inconsistentre
+#### Erro ao 
+
+### Erro no fechamento de conta
 
 ### Erro de emissão de cupom fiscal
 #### SAT
@@ -15,12 +26,36 @@
 
 ### Erro de SYNC
 
-### Erro ao Abrir programa
+### Erro ao na impressão de pedidos
+
+### Erro no 
+
+### Erro ao abrir programa
 
 ### Conta Presa
+#### Conta presa após ter emitido cupom fiscal
+#### Conta presa por não emitir cupom Fiscal
 
 ### Looping de impressão de pedidos
 
-### Pocket sem conexão
+### Pocket 
+#### Comunicação
+#### Configuração
+#### Erro com cardapio
+#### Pedidos lançados não registram no FC
+#### Erro de ID ao realizar ao enviar pedido
+
+### Client 
+#### Comunicação
+#### Configuração
+#### Abertura do programa
+#### Erro de Impressão
+
+
+### Microterminal
+#### Comunicação
+#### Configuração
+
+### Integração iFood
 
 
