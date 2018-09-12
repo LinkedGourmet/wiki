@@ -3,14 +3,12 @@
 
 # Suporte ao Atenda 1.0
 ## Principais problemas
-### Erro de comunicação com as impressoras de produção
 
 ### Erro com SAT
 #### Não impressão de documentos
 #### SAT não comunicando com o sistema
 #### Erro ao emitir cupom fiscal
 #### Cancelamento de cupom fiscal
-
 
 ### Erro com ECF
 #### Não impressão de documentos
@@ -25,7 +23,6 @@
 #### Não impressão de documentos
 #### Erro ao emitir cupom fiscal
 #### Cancelamento de cupom fiscal
-
 
 ### Erro no fechamento de conta
 ##### Erro de pagamento
@@ -51,7 +48,6 @@
 #### Erro SQL
 #### Erro SQL Usuário 'sa
 
-
 ### Conta Presa
 #### Conta presa após ter emitido cupom fiscal
 #### Conta presa por não emitir cupom Fiscal
@@ -68,13 +64,11 @@
 #### Erro ao iniciar serviço no Windows
 #### Reinstalação do serviço
 
-
 ### Client 
 #### Erro de Comunicação
 #### Erro de Configuração
 #### Erro na Abertura do programa
 #### Erro de Impressão
-
 
 ### Microterminal
 #### Erro Comunicação
