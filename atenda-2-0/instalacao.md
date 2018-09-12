@@ -4,90 +4,84 @@
 # Instalação Atenda 2.0
 ## Pré Requisitos
 ### Hardwares Homologados
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
-
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
+### SAT
+### Impressora Fiscal
 
 ### Requisitos mínimos
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 ### Tempo de instalação
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 ## Geração de pacote
 ### Link de acesso
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 ### Como gerar novamente o pacote
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 ### Qual versão escolher
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 ### Quais configurações escolher
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 ## Instalação do pacote
 
 ### Cuidados antes da instalação
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 ### Como realizar a instalaçao
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
-
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 
 #### Nova instalação 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 
 #### Instalação preservando o banco e configurações
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
-
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 
 #### Backup da versão anterior
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 ## Configuração de impressoras
 ### Configurado as impressoras no windows
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
+#### **Bematech**
+##### 2100 TH
+##### 4200 TH Rede e USB
+#### **Epson**
+#### **Daruma**
+Seguir passo a passo abaixo
+http://www.desenvolvedoresdaruma.com.br/sddn/ebits/ddc_ebits_21.html
+#### **Sweda**
+#### **Elgin**
 
 ### Configurando no atenda 2.0
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 
 ### Configurando impressoras USB em Rede
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
-
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 
 ## Configuração do SAT
-### Gerando assinatura 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
+### Instalação de SAT no Windows
+#### **Bematech**
+Seguir passo a passo abaixo
+https://www.automaclick.com.br/blog/como-instalar-o-sat-bematech
 
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
+#### **Epson**
+Seguir passo a passo abaixo
+https://files.support.epson.com/pdf/pos/bulk/manual_usuario_sat_a10.pdf
+
+#### **Daruma**
+Seguir passo a passo abaixo
+https://www.automaclick.com.br/blog/instalar-driver-do-sat-daruma
+
+#### **Sweda**
+Seguir passo a passo abaixo - A partir da página 7
+http://sistemas.sweda.com.br/downloads/Manual_de_instala%C3%A7ao__SAT.pdf
+
+#### **Elgin**
+
+Seguir passo a passo - Windows 7
+https://www.essystem.com.br/downloads/elginIIwindows7.pdf
+
+Seguir passo a passo - Windows 10
+https://www.essystem.com.br/downloads/elginIIwindows10.pdf
+
+### Gerando assinatura
+> > (Mudar fluxo de geração de assintaura - além do cardapio, deve-se gerar uma assinatura e disponibilzar o TXT para o instalador)
+Verifique se o arquivo com a Assintura gerada está no pacote de instalação.
+
 
 ### Configurando no Atenda 2.0
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
-
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
 
 ## Configuração dos relatórios de impressão
-
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut enim egestas, faucibus ante id, consequat dolor. Proin suscipit nisi non nunc pharetra blandit. Ut a sem sit amet libero egestas placerat. Phasellus congue sapien ac ipsum aliquam, et rutrum neque egestas. Sed non venenatis velit. Quisque vel scelerisque ligula. Nulla sagittis pretium nisl eget egestas. Vestibulum iaculis, est et cursus consectetur, mauris enim volutpat felis, nec lacinia orci nunc et orci.
-
-Ut fermentum ante purus, et volutpat mi gravida facilisis. Nunc eget metus at elit luctus tincidunt in et massa. Vivamus non placerat leo. Cras suscipit orci vitae diam sodales, elementum faucibus turpis pharetra. Proin tristique iaculis ultrices. Phasellus nec purus tincidunt, lacinia massa eget, consectetur turpis. 
-
