@@ -39,6 +39,9 @@
 #### Funcionarios cadastrados não disponiveis no FC
 #### Produtos cadastrados não disponiveis no FC
 #### Departamento de impressão não disponivel no FC
+#### Erro ao iniciar serviço de SYNC no Windows
+#### Erro ao reiniciar serviço do SYNC
+#### Reinstalação do serviço
 
 ### Erro ao na impressão de pedidos
 #### Pedidos não imprimem
@@ -62,6 +65,9 @@
 #### Erro com cardápio
 #### Pedidos lançados não registram no FC
 #### Erro de ID ao realizar ao enviar pedido
+#### Erro ao iniciar serviço no Windows
+#### Reinstalação do serviço
+
 
 ### Client 
 #### Erro de Comunicação
