@@ -100,10 +100,10 @@ Alterar portas para 1433
 3. Configurar SAT ou ECF
 
 ## **Configuração de impressoras**
-Guia de instalação de impressoras
+###Guia de instalação de impressoras
 ####**Bematech**
-###### 2100 TH
-###### 4200 TH Rede e USB
+##### 2100 TH
+##### 4200 TH Rede e USB
 ####**Epson**
 ####**Daruma**
 Seguir passo a passo abaixo
