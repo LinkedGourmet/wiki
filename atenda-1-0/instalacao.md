@@ -81,6 +81,7 @@ Alterar portas para 1433
 4. Restaurar o Banco de Dados Linked Gourmet
 
 5. Inserir o Nosso Número do Cliente - Informação disponível na retaguarda
+
 ![Slide 1](/uploads/slide-1.jpg "Slide 1")
 
 ![Slide 2](/uploads/slide-2.jpg "Slide 2")
