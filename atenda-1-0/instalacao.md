@@ -67,8 +67,6 @@ A instalação possui 4 etapas distintas que devem ser feitas exatamente nesta o
 1. Baixar o SQL Server a partir deste endereço - https://www.microsoft.com/pt-br/download/details.aspx?id=42299
 2. Após baixar, realizar a instalação seguindo o passo a abaixo
 
-![Slide 1](/uploads/slide-1.jpg "Slide 1")![Slide 2](/uploads/slide-2.jpg "Slide 2")![Slide 3](/uploads/slide-3.jpg "Slide 3")![Slide 4](/uploads/slide-4.jpg "Slide 4")
-
 3. Acessar o SQL CONFIGURATION CENTER 2014 e habilitar as PIPES e Portas TCP/IP 
 ![Sql Config Manager](/uploads/sql-config-manager.jpg "Sql Config Manager")
 
