@@ -1,5 +1,5 @@
-<!-- TITLE: Instalacão -->
-<!-- SUBTITLE: Instalacão Atenda 1.0 -->
+<!-- TITLE: Instalacão ATENDA 1.0-->
+<!-- SUBTITLE: Guia de instalacão ATENDA 1.0 -->
 
  # Instalação
 ## **Pré Requisitos**
