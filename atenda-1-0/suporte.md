@@ -1,8 +1,8 @@
 <!-- TITLE: Suporte -->
-<!-- SUBTITLE: A quick summary of Suporte -->
+<!-- SUBTITLE: Mapa de incidentes - Suporte -->
 
 # Suporte ao Atenda 1.0
-## Principais problemas
+## Principais incidentes
 
 ### Erro com SAT
 #### Não impressão de documentos
@@ -29,13 +29,13 @@
 ##### Erro SEFAZ
 ##### Não impressão de cupom fiscal
 ##### Cupom emitindo com excesso de papel
-##### Cupom emtindo com valor diferente do sistema
+##### Cupom emitindo com valor diferente do sistema
 
 ### Erro de SYNC
-#### Caixas não disponiveis no Retaguarda
-#### Funcionarios cadastrados não disponiveis no FC
-#### Produtos cadastrados não disponiveis no FC
-#### Departamento de impressão não disponivel no FC
+#### Caixas não disponíveis no Retaguarda
+#### Funcionários cadastrados não disponíveis no FC
+#### Produtos cadastrados não disponíveis no FC
+#### Departamento de impressão não disponível no FC
 #### Erro ao iniciar serviço de SYNC no Windows
 #### Erro ao reiniciar serviço do SYNC
 #### Reinstalação do serviço
@@ -46,7 +46,7 @@
 
 ### Erro ao abrir programa
 #### Erro SQL
-#### Erro SQL Usuário 'sa
+#### Erro SQL Usuário 'sa'
 
 ### Conta Presa
 #### Conta presa após ter emitido cupom fiscal
