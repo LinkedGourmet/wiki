@@ -77,7 +77,7 @@ https://www.essystem.com.br/downloads/elginIIwindows7.pdf
 Seguir passo a passo - Windows 10
 https://www.essystem.com.br/downloads/elginIIwindows10.pdf
 
-### Gerando assinatura
+### Inserindo assinatura
 > > (Mudar fluxo de geração de assintaura - além do cardapio, deve-se gerar uma assinatura e disponibilzar o TXT para o instalador)
 Verifique se o arquivo com a Assintura gerada está no pacote de instalação.
 
