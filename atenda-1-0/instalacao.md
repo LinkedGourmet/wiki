@@ -100,16 +100,16 @@ Alterar portas para 1433
 3. Configurar SAT ou ECF
 
 ## **Configuração de impressoras**
-###Guia de instalação de impressoras
-####**Bematech**
+### Guia de instalação de impressoras
+#### **Bematech**
 ##### 2100 TH
 ##### 4200 TH Rede e USB
-####**Epson**
-####**Daruma**
+#### **Epson**
+#### **Daruma**
 Seguir passo a passo abaixo
 http://www.desenvolvedoresdaruma.com.br/sddn/ebits/ddc_ebits_21.html
-####**Sweda**
-####**Elgin**
+#### **Sweda**
+#### **Elgin**
 
 ### Configurado as impressoras no Atenda 1.0
 Acesse o Atenda 1.0 e vá em configurações e Impressoras
@@ -117,23 +117,23 @@ Acesse o Atenda 1.0 e vá em configurações e Impressoras
 ## **Configuração do SAT**
 
 ### Instalação de SAT no Windows
-####**Bematech**
+#### **Bematech**
 Seguir passo a passo abaixo
 https://www.automaclick.com.br/blog/como-instalar-o-sat-bematech
 
-####**Epson**
+#### **Epson**
 Seguir passo a passo abaixo
 https://files.support.epson.com/pdf/pos/bulk/manual_usuario_sat_a10.pdf
 
-####**Daruma**
+#### **Daruma**
 Seguir passo a passo abaixo
 https://www.automaclick.com.br/blog/instalar-driver-do-sat-daruma
 
-####**Sweda**
+#### **Sweda**
 Seguir passo a passo abaixo - A partir da página 7
 http://sistemas.sweda.com.br/downloads/Manual_de_instala%C3%A7ao__SAT.pdf
 
-####**Elgin**
+#### **Elgin**
 
 Seguir passo a passo - Windows 7
 https://www.essystem.com.br/downloads/elginIIwindows7.pdf
