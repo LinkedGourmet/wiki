@@ -113,16 +113,53 @@ http://www.desenvolvedoresdaruma.com.br/sddn/ebits/ddc_ebits_21.html
 
 ### Configurado as impressoras no Atenda 1.0
 Acesse o Atenda 1.0 e vá em configurações e Impressoras
-![Impressora Fiscal Instalacao 2](/uploads/impressora-fiscal-instalacao-2.png "Impressora Fiscal Instalacao 2")
-
 
 ## **Configuração do SAT**
+
+### Instalação de SAT no Windows
+####**Bematech**
+Seguir passo a passo abaixo
+https://www.automaclick.com.br/blog/como-instalar-o-sat-bematech
+
+####**Epson**
+Seguir passo a passo abaixo
+https://files.support.epson.com/pdf/pos/bulk/manual_usuario_sat_a10.pdf
+
+####**Daruma**
+Seguir passo a passo abaixo
+https://www.automaclick.com.br/blog/instalar-driver-do-sat-daruma
+
+####**Sweda**
+Seguir passo a passo abaixo - A partir da página 7
+http://sistemas.sweda.com.br/downloads/Manual_de_instala%C3%A7ao__SAT.pdf
+
+####**Elgin**
+
+Seguir passo a passo - Windows 7
+https://www.essystem.com.br/downloads/elginIIwindows7.pdf
+
+Seguir passo a passo - Windows 10
+https://www.essystem.com.br/downloads/elginIIwindows10.pdf
+
 ### Gerando assinatura
+> > (Mudar fluxo de geração de assintaura - além do cardapio, deve-se gerar uma assinatura e disponibilzar o TXT para o instalador)
+Verifique se o arquivo com a Assintura gerada está no pacote de instalação.
+
 ### Configurando o SAT no Atenda 1.0
-Acesse configurações - Aba 
+Acesse configurações - Aba NFC-e/SAT/Outras
+Aperte na área destacada
 ![Sat](/uploads/sat.png "Sat")
+
+Escolha o Caixa 1 (caso seja o primeiro caixa)
+Insira as informações do cliente, código de atvação e assinatura gerada anteriormente
+
 ## **Configuração dos relatórios de impressão**
+Acesse configurações - Aba Relatórios de Impressão e escolha qual  relatório deve sair em cada impressora. 
+ATENÇÃO - O sistema só vai mostrar as impressoras configuradas no ATENDA 1.0
+![Impressora Fiscal Instalacao 3](/uploads/impressora-fiscal-instalacao-3.png "Impressora Fiscal Instalacao 3")
 ## **Configurando Balanças**
+
+
 
 ## **Configurando Microterminal**
 
