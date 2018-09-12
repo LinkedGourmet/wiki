@@ -1,5 +1,5 @@
 <!-- TITLE: Glossário -->
-<!-- SUBTITLE: A quick summary of Glossário -->
+<!-- SUBTITLE: Principais termos utilizados-->
 
 # Glossário
 ## Termos Técnicos
@@ -12,7 +12,7 @@
 
 ### Módulos 
 
-**Retaguarda** - Ambiente online que que permite ao cliente a configuração do sistema, cadastro de produtos, categorias, formas de pagamento, contas a pagar, contas a receber, relatórios. Acessado através do endereço www.retaguarda.linkedgourmet.com.br. Para acessar é necessária um login, senha e a rede do estabelecimento. Cada estabelecimento possui uma rede própria.
+**Retaguarda** - Ambiente online que que permite ao cliente a configuração do sistema, cadastro de produtos, categorias, formas de pagamento, contas a pagar, contas a receber, relatórios. Acessado através do endereço https://retaguarda.linkedgourmet.com.br. Para acessar é necessária um login, senha e a rede do estabelecimento. Cada estabelecimento possui uma rede própria.
 
 **Atenda 1.0** - 
 
