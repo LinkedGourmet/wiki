@@ -66,6 +66,9 @@ A instalação possui 4 etapas distintas que devem ser feitas exatamente nesta o
 ##### Instalação do SQL Server 2014 Express
 1. Baixar o SQL Server a partir deste endereço - https://www.microsoft.com/pt-br/download/details.aspx?id=42299
 2. Após baixar, realizar a instalação seguindo o passo a abaixo
+
+![Slide 1](/uploads/slide-1.jpg "Slide 1")![Slide 2](/uploads/slide-2.jpg "Slide 2")![Slide 3](/uploads/slide-3.jpg "Slide 3")![Slide 4](/uploads/slide-4.jpg "Slide 4")
+
 3. Acessar o SQL CONFIGURATION CENTER 2014 e habilitar as PIPES e Portas TCP/IP 
 ![Sql Config Manager](/uploads/sql-config-manager.jpg "Sql Config Manager")
 
@@ -78,8 +81,19 @@ Alterar portas para 1433
 4. Restaurar o Banco de Dados Linked Gourmet
 
 5. Inserir o Nosso Número do Cliente - Informação disponível na retaguarda
-![Sql 1](/uploads/sql-1.jpg "Sql 1")
-![Sql 2](/uploads/sql-2.jpg "Sql 2")
+![Slide 1](/uploads/slide-1.jpg "Slide 1")
+![Slide 2](/uploads/slide-2.jpg "Slide 2")
+![Slide 3](/uploads/slide-3.jpg "Slide 3")
+![Slide 4](/uploads/slide-4.jpg "Slide 4")
+![Slide 5](/uploads/slide-5.jpg "Slide 5")
+![Slide 6](/uploads/slide-6.jpg "Slide 6")
+![Slide 7](/uploads/slide-7.jpg "Slide 7")
+![Slide 8](/uploads/slide-8.jpg "Slide 8")
+![Slide 9](/uploads/slide-9.jpg "Slide 9")
+![Slide 10](/uploads/slide-10.jpg "Slide 10")
+![Slide 11](/uploads/slide-11.jpg "Slide 11")
+
+
 
 6. Reiniciar o Serviço SQL
 
