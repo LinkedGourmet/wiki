@@ -66,20 +66,7 @@ A instalação possui 4 etapas distintas que devem ser feitas exatamente nesta o
 ##### Instalação do SQL Server 2014 Express
 1. Baixar o SQL Server a partir deste endereço - https://www.microsoft.com/pt-br/download/details.aspx?id=42299
 2. Após baixar, realizar a instalação seguindo o passo a abaixo
-
-3. Acessar o SQL CONFIGURATION CENTER 2014 e habilitar as PIPES e Portas TCP/IP 
-![Sql Config Manager](/uploads/sql-config-manager.jpg "Sql Config Manager")
-
-Habilitar as PIPES e Portas TCP/IP 
-![Sql Config Manager 3](/uploads/sql-config-manager-3.jpg "Sql Config Manager 3")
-
-Alterar portas para 1433
-![Sql Config Manager 4](/uploads/sql-config-manager-4.jpg "Sql Config Manager 4")
-
-4. Restaurar o Banco de Dados Linked Gourmet
-
-5. Inserir o Nosso Número do Cliente - Informação disponível na retaguarda
-
+#####Instalação SQL
 ![Slide 1](/uploads/slide-1.jpg "Slide 1")
 
 ![Slide 2](/uploads/slide-2.jpg "Slide 2")
@@ -101,6 +88,19 @@ Alterar portas para 1433
 ![Slide 10](/uploads/slide-10.jpg "Slide 10")
 
 ![Slide 11](/uploads/slide-11.jpg "Slide 11")
+
+3. Acessar o SQL CONFIGURATION CENTER 2014 e habilitar as PIPES e Portas TCP/IP 
+![Sql Config Manager](/uploads/sql-config-manager.jpg "Sql Config Manager")
+
+Habilitar as PIPES e Portas TCP/IP 
+![Sql Config Manager 3](/uploads/sql-config-manager-3.jpg "Sql Config Manager 3")
+
+Alterar portas para 1433
+![Sql Config Manager 4](/uploads/sql-config-manager-4.jpg "Sql Config Manager 4")
+
+4. Restaurar o Banco de Dados Linked Gourmet
+
+5. Inserir o Nosso Número do Cliente - Informação disponível na retaguarda
 
 
 
