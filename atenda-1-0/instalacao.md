@@ -1,5 +1,5 @@
-<!-- TITLE: Instalacão ATENDA 1.0-->
-<!-- SUBTITLE: Guia de instalacão ATENDA 1.0 -->
+<!-- TITLE: Instalação ATENDA 1.0-->
+<!-- SUBTITLE: Guia de instalação ATENDA 1.0 -->
 
  # Instalação
 ## **Pré Requisitos**
@@ -8,7 +8,7 @@ Abaixo seguem os hardwares homologados para o ATENDA 1.0
 
 **SAT**
 **ECF ou Impressora Fiscal**
-**Impressora Termica**
+**Impressora Térmica**
 **Balança**
 **Microterminal**
 **TEF**
@@ -20,39 +20,39 @@ Abaixo seguem os hardwares homologados para o ATENDA 1.0
 
 Para executar o Atenda 1.0 com a certeza de uma boa experiência de usabilidade, é necessário um computador central (Servidor) com as configurações abaixo
 * Processador Dual Core ou superior
-* 4GB de memoria ram
+* 4GB de memória ram
 * 20 gb de espaço livre no HD
 * Windows 7 ou superior com todas as atualizações instaladas
 * Conexão Banda Larga
-* Portas USB - para conexão de perifericos como mouse, teclado, impressoras e SAT.
+* Portas USB - para conexão de periféricos como mouse, teclado, impressoras e SAT.
 * Monitor 
-* Rede wifi em todo o ambiente - Caso utlize os pockets
-* Perfil de Usuário do Windows com nivel administrador
+* Rede wifi em todo o ambiente - Caso utilize os pockets
+* Perfil de Usuário do Windows com nível administrador
 * Impressoras e equipamentos previamente instalados pelo técnico de Ti do restaurante
 
 
 ### Programas exigidos
-* SQL Server 2014 Express - disponilizado na instalação
+* SQL Server 2014 Express
 * Winrar ou algum descompactdor
-* Drivers das impressoras témicas e/ou fiscais. De preferencia baixados diretamente do site do fabricante
+* Drivers das impressoras térmicas e/ou fiscais. De preferência baixados diretamente do site do fabricante
 * Teamviewer 12 ou inferior ou Any Desk instalado
 
 ## **Instalação da Aplicação**
 
 ### Cuidados antes da instalação
 
-Antes da instalação é necessário seguir algum passos antes de iniciar o processo de instalação. Além de prevenir problemas, estes passos tornarão a instalação mais fácil e mais rápida garantindo uma instalação limpa e estavel do programa.  
+Antes da instalação é necessário seguir alguns passos antes de iniciar o processo de instalação. Além de prevenir problemas, estes passos tornarão a instalação mais fácil e mais rápida garantindo uma instalação limpa e estável do programa.  
 
 1. Verificar se todos os equipamentos estão instalados no servidor e se fazem parte dos equipamentos homologados
-2. Verificar se a instalação do windows está estavel e atualizada
-3. desativar antivirus (Principalmente o AVAST)
+2. Verificar se a instalação do Windows está estável e atualizada
+3. desativar antivírus (Principalmente o AVAST)
 4. Baixar todos os arquivos de instalação. (SQL Server, Ferramentas do SAT ou ECF, Drivers e Spoolers de impressão das impressoras. 
 5. Definir acesso fácil no Team Viewer ou Any Desk
-6. Testar conexão com perifericos utilizados - Impressoras, SAT e ECF
+6. Testar conexão com periféricos utilizados - Impressoras, SAT e ECF
 7. Ter em mãos os dados do cliente - CNPJ, Insc. Estadual, Endereço, Regime Fiscal, Cardápio Atualizado, Rede do Retaguarda, Código de ativação do SAT
 8. Janela de tempo de 2 ou 3 horas antes do cliente iniciar o atendimento
 
-### Como realizar a instalaçao
+### Como realizar a instalação
 Passo a passo para realizar uma instalação completa e estável do Atenda 1.0
 
 #### Nova instalação 
@@ -60,7 +60,7 @@ A instalação possui 4 etapas distintas que devem ser feitas exatamente nesta o
 
 1. instalação e configuração do SQL SERVER
 2. Instalação do Atenda 1.0
-3. Instalação e/ou identificação dos Perifericos - impressoras, SAT, balanças e microterminais
+3. Instalação e/ou identificação dos periféricos - impressoras, SAT, balanças e microterminais
 4. Configuração do ATENDA 1.0
 
 ##### Instalação do SQL Server 2014 Express
@@ -77,22 +77,22 @@ Alterar portas para 1433
 
 4. Restaurar o Banco de Dados Linked Gourmet
 
-5. Inserir o Nosso Numero do Cliente - Informação disponivel no retaguarda
+5. Inserir o Nosso Número do Cliente - Informação disponível na retaguarda
 ![Sql 1](/uploads/sql-1.jpg "Sql 1")
 ![Sql 2](/uploads/sql-2.jpg "Sql 2")
 
 6. Reiniciar o Serviço SQL
 
-##### Instalação  Linked Gourmet
+##### Instalação Linked Gourmet
 1. Executar o programa como administrador
 2. Avançar o Wizard de instalação até iniciar a instalação
-3. Após instalado, gerar uma string de conexão atraves do GERADOR DE SENHA - ver imagem
+3. Após instalado, gerar uma string de conexão através do GERADOR DE SENHA - ver imagem
 4. Iniciar o programa
 5. Verificar se o cardápio instalado é o mesmo do cliente
 
-##### Instalação dos Periférios
-1. Instalar no servidor as impressoras de produção e realizar um teste atraves do painel de controle
-2. Instalar o SAT ou EFC e testar atraves do programa proprietário do dispositivo
+##### Instalação dos Periféricos
+1. Instalar no servidor as impressoras de produção e realizar um teste através do painel de controle
+2. Instalar o SAT ou EFC e testar através do programa proprietário do dispositivo
 
 ##### Configuração Atenda 1.0
 1. Configurar impressoras
@@ -142,8 +142,8 @@ Seguir passo a passo - Windows 10
 https://www.essystem.com.br/downloads/elginIIwindows10.pdf
 
 ### Gerando assinatura
-> > (Mudar fluxo de geração de assintaura - além do cardapio, deve-se gerar uma assinatura e disponibilzar o TXT para o instalador)
-Verifique se o arquivo com a Assintura gerada está no pacote de instalação.
+> > (Mudar fluxo de geração de assinatura - além do cardápio, deve-se gerar uma assinatura e disponibilizar o TXT para o instalador)
+Verifique se o arquivo com a Assinatura gerada está no pacote de instalação.
 
 ### Configurando o SAT no Atenda 1.0
 Acesse configurações - Aba NFC-e/SAT/Outras
@@ -151,10 +151,10 @@ Aperte na área destacada
 ![Sat](/uploads/sat.png "Sat")
 
 Escolha o Caixa 1 (caso seja o primeiro caixa)
-Insira as informações do cliente, código de atvação e assinatura gerada anteriormente
+Insira as informações do cliente, código de ativação e assinatura gerada anteriormente
 
 ## **Configuração dos relatórios de impressão**
-Acesse configurações - Aba Relatórios de Impressão e escolha qual  relatório deve sair em cada impressora. 
+Acesse configurações - Aba Relatórios de Impressão e escolha qual relatório deve sair em cada impressora. 
 ATENÇÃO - O sistema só vai mostrar as impressoras configuradas no ATENDA 1.0
 
 ## **Configurando Balanças**
