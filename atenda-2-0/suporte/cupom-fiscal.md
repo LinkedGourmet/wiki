@@ -3,12 +3,12 @@
 
 # Cupom Fiscal
 ## SAT
-Sintoma - Sistema trava quando IMPRIME O COMPROVANTE - Trava na tela de CARREGANDO
+**Sintoma** - Sistema trava quando IMPRIME O COMPROVANTE - Trava na tela de CARREGANDO
 ![Linekd Sat Travado 1](/uploads/linekd-sat-travado-1.jpg "Linekd Sat Travado 1")
 
-Causa - O programa linked SAT trava e assim não termina de emitir o cupom fiscal.
+**Causa** - O programa linked SAT trava e assim não termina de emitir o cupom fiscal.
 
-Solução - Reiniciar o cupom fiscal através do gerenciador de tarefas ou reiniciando o sistema. Ver imagem
+**Solução** - Reiniciar o cupom fiscal através do gerenciador de tarefas ou reiniciando o sistema. Ver imagem
 
 ![Linekd Sat Trava](/uploads/linekd-sat-trava.jpg "Linekd Sat Trava")
 
