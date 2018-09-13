@@ -1,4 +1,4 @@
-<!-- TITLE: Instalação e Configuração Impressoras -->
+<!-- TITLE: Impressoras -->
 <!-- SUBTITLE: Instalação e Configuração de Impressoras -->
 
 # **Instalação e Configuração impressoras**
