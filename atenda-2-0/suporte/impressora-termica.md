@@ -1,8 +1,3 @@
-<!-- TITLE: Cupom Fiscal -->
-<!-- SUBTITLE: Cupom Fiscal incidentes -->
+<!-- TITLE: Impressora Térmica -->
+<!-- SUBTITLE: Incidentes - Impressora Térmica -->
 
-# Cupom Fiscal
-## SAT
-## ECF
-## PAF
-## NFCe
