@@ -1,4 +1,8 @@
 <!-- TITLE: Cupom Fiscal -->
-<!-- SUBTITLE: A quick summary of Cupom Fiscal -->
+<!-- SUBTITLE: incidentes - Cupom Fiscal -->
 
-# Header
+# Cupom Fiscal
+## SAT
+## ECF
+## PAF
+## NFCe
