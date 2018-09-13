@@ -1,5 +1,5 @@
-<!-- TITLE: Configuração Impressoras -->
-<!-- SUBTITLE: A quick summary of Configuração de Impressoras -->
+<!-- TITLE: Instalação e Configuração Impressoras -->
+<!-- SUBTITLE: Instalação e Configuração de Impressoras -->
 
 # **Instalação e Configuração impressoras**
 ## Instalação de impressoras no windows
