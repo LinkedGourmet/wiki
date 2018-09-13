@@ -1,8 +1,8 @@
 <!-- TITLE: Configuração Impressoras -->
 <!-- SUBTITLE: A quick summary of Configuração de Impressoras -->
 
-# **Configuração de impressoras**
-## Configurado as impressoras no windows
+# **Instalação e Configuração impressoras**
+## Instalação de impressoras no windows
 
 ### **Bematech**
 #### 2100 TH
@@ -20,5 +20,5 @@ http://www.desenvolvedoresdaruma.com.br/sddn/ebits/ddc_ebits_21.html
 
 ## Configurando impressoras USB em Rede
 
-## Configuração dos relatórios de impressão
+## Configuração dos relatórios de impressão - Atenda 2.0
 
