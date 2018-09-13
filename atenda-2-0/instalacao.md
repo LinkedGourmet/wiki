@@ -53,34 +53,8 @@ http://www.desenvolvedoresdaruma.com.br/sddn/ebits/ddc_ebits_21.html
 
 ## **Configuração do SAT**
 ### Instalação de SAT no Windows
-#### **Bematech**
-Seguir passo a passo abaixo
-https://www.automaclick.com.br/blog/como-instalar-o-sat-bematech
-
-#### **Epson**
-Seguir passo a passo abaixo
-https://files.support.epson.com/pdf/pos/bulk/manual_usuario_sat_a10.pdf
-
-#### **Daruma**
-Seguir passo a passo abaixo
-https://www.automaclick.com.br/blog/instalar-driver-do-sat-daruma
-
-#### **Sweda**
-Seguir passo a passo abaixo - A partir da página 7
-http://sistemas.sweda.com.br/downloads/Manual_de_instala%C3%A7ao__SAT.pdf
-
-#### **Elgin**
-
-Seguir passo a passo - Windows 7
-https://www.essystem.com.br/downloads/elginIIwindows7.pdf
-
-Seguir passo a passo - Windows 10
-https://www.essystem.com.br/downloads/elginIIwindows10.pdf
 
 ### Inserindo assinatura
-> > (Mudar fluxo de geração de assintaura - além do cardapio, deve-se gerar uma assinatura e disponibilzar o TXT para o instalador)
-Verifique se o arquivo com a Assintura gerada está no pacote de instalação.
-
 
 ### Configurando no Atenda 2.0
 
