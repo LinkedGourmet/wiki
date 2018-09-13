@@ -15,7 +15,9 @@
 
 ![Linekd Sat Trava](/uploads/linekd-sat-trava.jpg "Linekd Sat Trava")
 
+### **Erro ao emitir cupom fiscal**
 
+### **Cancelamento de cupom fiscal**
 
 
 ## ECF
