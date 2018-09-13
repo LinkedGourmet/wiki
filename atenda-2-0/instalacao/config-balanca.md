@@ -1,4 +1,4 @@
-<!-- TITLE: Instalação e configuração de Balanca -->
+<!-- TITLE: Balança -->
 <!-- SUBTITLE: Instalação - Instalação e configuração de Balanca -->
 
 # **Instalando Balança**
