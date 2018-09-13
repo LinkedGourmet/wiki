@@ -1,5 +1,5 @@
-<!-- TITLE: Nova Instalacao -->
-<!-- SUBTITLE: Passo a Passo - Nova Instalacao -->
+<!-- TITLE: Nova Instalação -->
+<!-- SUBTITLE: Passo a Passo - Nova Instalação -->
 
 # Instalação Atenda 2.0
 ## **Pré Requisitos**
