@@ -1,4 +1,4 @@
-![Linekd Sat Travado 1](/uploads/linekd-sat-travado-1.jpg "Linekd Sat Travado 1")<!-- TITLE: Cupom Fiscal -->
+<!-- TITLE: Cupom Fiscal -->
 <!-- SUBTITLE: incidentes - Cupom Fiscal -->
 
 # Cupom Fiscal
