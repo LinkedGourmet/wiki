@@ -11,6 +11,10 @@
 #### https://backoffice.linkedgourmet.com.br/
 
 ## Retaguarda
+### Link
+
+#### https://retaguarda.linkedgourmet.com.br/Autenticacao/Index
+
 ## Site Linked Gourmet
 ## Webmail
 ## Manutenção e suporte
