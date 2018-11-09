@@ -6,6 +6,10 @@
 ## Canal do Youtube
 ## Geiko
 ## Backoffice
+### Link
+
+#### https://backoffice.linkedgourmet.com.br/
+
 ## Retaguarda
 ## Site Linked Gourmet
 ## Webmail
