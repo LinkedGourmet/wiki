@@ -69,10 +69,7 @@ A instalação possui 4 etapas distintas que devem ser feitas exatamente nesta o
 ###### Instalação SQL
 
 ![Slide 1](/uploads/imagesn/slide-1.jpg "Slide 1") 
-
-Desmarque as opções abaixo
 ![Slide 2](/uploads/imagesn/slide-2.jpg "Slide 2")
-
 ![Slide 3](/uploads/imagesn/slide-3.jpg "Slide 3")
 ![Slide 4](/uploads/imagesn/slide-4.jpg "Slide 4")
 ![Slide 5](/uploads/imagesn/slide-5.jpg "Slide 5")
