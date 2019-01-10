@@ -70,6 +70,7 @@ A instalação possui 4 etapas distintas que devem ser feitas exatamente nesta o
 
 ![Slide 1](/uploads/imagesn/slide-1.jpg "Slide 1") 
 
+Desmarque as opções abaixo
 ![Slide 2](/uploads/imagesn/slide-2.jpg "Slide 2")
 
 ![Slide 3](/uploads/imagesn/slide-3.jpg "Slide 3")
