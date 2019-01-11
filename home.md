@@ -3,7 +3,7 @@
 
 # Início
 
-![Capturar Servico 2](/uploads/imagesn/capturar-servico-2.png "Capturar Servico 2")
+![Capturar Servico 2](https://prdlinkedstorage.blob.core.windows.net/wiki/teste.jpg "Capturar Servico 2")
 ## Glossário
 ## Atenda 1.0
 #### Instalação - 
