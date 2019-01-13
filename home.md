@@ -1,9 +1,8 @@
-<!-- TITLE: Wiki - Linked Gourmet -->
+{.align-center}<!-- TITLE: Wiki - Linked Gourmet -->
 <!-- SUBTITLE: Plataforma para compatilhamento de conhecimento -->
 
 # Início
-
-![Capturar Servico 2](https://prdlinkedstorage.blob.core.windows.net/wiki/teste.jpg "Capturar Servico 2")
+![Sem Titulo](/uploads/teste/sem-titulo.png "Sem Titulo")
 ## Glossário
 ## Atenda 1.0
 #### Instalação - 
