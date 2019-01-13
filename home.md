@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Plataforma para compatilhamento de conhecimento -->
 
 # Início
-![Sem Titulo](/uploads/teste/sem-titulo.png "Sem Titulo")
+![Sem Titulo](/uploads/sem-titulo.png "Sem Titulo")
 ## Glossário
 ## Atenda 1.0
 #### Instalação - 
