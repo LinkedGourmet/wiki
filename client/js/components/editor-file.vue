@@ -51,7 +51,7 @@
                     | {{ $t('editor.filefolderempty') }}
                 .column.editor-modal-choices.editor-modal-image-choices(v-if='mode === "image"')
                   figure(v-for='img in files', v-bind:class='{ "is-active": currentFile === img._id }', v-on:click='selectFile(img._id)', v-bind:data-uid='img._id')
-                    img(v-bind:src='"/uploads/t/" + img._id + ".png"')
+                    img(v-bind:src='"/public/t/" + img._id + ".png"')
                     span: strong {{ img.basename }}
                     span {{ filesize(img.filesize) }}
                   em(v-show='files.length < 1')
@@ -190,7 +190,7 @@
         let textToInsert = ''
 
         if (this.mode === 'image') {
-          textToInsert = '![' + selFile.titleGuess + '](/uploads/' + selFile.normalizedPath + ' "' + selFile.titleGuess + '")'
+          textToInsert = '![' + selFile.titleGuess + '](/public/' + selFile.normalizedPath + ' "' + selFile.titleGuess + '")'
           switch (this.currentAlign) {
             case 'center':
               textToInsert += '{.align-center}'
@@ -203,7 +203,7 @@
               break
           }
         } else {
-          textToInsert = '[' + selFile.titleGuess + '](/uploads/' + selFile.normalizedPath + ' "' + selFile.titleGuess + '")'
+          textToInsert = '[' + selFile.titleGuess + '](/public/' + selFile.normalizedPath + ' "' + selFile.titleGuess + '")'
         }
 
         this.$store.dispatch('editor/insert', textToInsert)
@@ -522,7 +522,7 @@
       upload() {
         let self = this
         let curFileAmount = this.files.length
-        let uplUrl = (self.mode === 'image') ? '/uploads/img' : '/uploads/file'
+        let uplUrl = (self.mode === 'image') ? '/public/img' : '/public/file'
 
         $(this.$refs.editorFileUploadInput).simpleUpload(uplUrl, {
 
